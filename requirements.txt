@@ -1,0 +1,13 @@
+torch>=2.0
+torchaudio
+transformers>=4.0
+datasets
+accelerate
+evaluate
+jiwer
+librosa
+soundfile
+whisper
+jupyterlab
+pandas
+huggingface_hub
