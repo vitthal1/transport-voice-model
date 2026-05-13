@@ -1,0 +1,13 @@
+# Data
+ data/calls/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Env
+.env
+
+# Notebooks
+.ipynb_checkpoints/
