@@ -1,13 +1,8 @@
-torch>=2.0
-torchaudio
-transformers>=4.0
+torch
+transformers
 datasets
-accelerate
 evaluate
+accelerate
 jiwer
-librosa
 soundfile
-whisper
-jupyterlab
-pandas
-huggingface_hub
+librosa

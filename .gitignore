@@ -1,13 +1,5 @@
-# Data
- data/calls/*
-
-# Python
+data/calls/*.wav
+data/calls/*.mp3
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Env
-.env
-
-# Notebooks
-.ipynb_checkpoints/
+*.pt
+whisper-transport-finetuned/
